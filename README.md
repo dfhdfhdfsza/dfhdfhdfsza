@@ -3,6 +3,7 @@
 신입 백엔드/서버개발자로 Java, JavaScript, HTML5, CSS3, MY-SQL, Spring Framework, MyBatis 등의 기술을 보유하고 있습니다. 비전공자를 위한 자바 프로그래밍 챌린지에서 교육을 수료하여 역량을 키웠으며, 빠르게 성장하고 배움에 열정적입니다. 동료들과의 협업을 통해 효율적으로 일을 처리하는 능력을 보유하고 있습니다.
 
 🛠️ Stacks
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 
