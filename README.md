@@ -4,6 +4,10 @@
 <!--
 **dfhdfhdfsza/dfhdfhdfsza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+🛠️ Stacks
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
